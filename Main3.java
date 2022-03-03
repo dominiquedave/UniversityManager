@@ -19,7 +19,7 @@ Project 3
 Nikole Solano, Miguel Contreras-Suarez, Nicolas Rumiche and Dave Dominique
 */
 
-class Main 
+class Main3 
 {
   public static void main(String[] args) {
 
